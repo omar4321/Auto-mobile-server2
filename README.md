@@ -22,4 +22,3 @@ Every projects:
 13. comment out await client.close() to keep the connection alive
 14. add await client.connect(); inside the try block
 15. use a console.log after the client.connect to ensure database is connected
-*/
